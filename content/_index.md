@@ -155,11 +155,12 @@ sections:
           description: |2-
               Research projects include:
 
-              * Decision Support System for transportation of hazardous materials
+              * Efficient data analysis and classification in Chemoinformatics
 
               
 
-              * Designed a SDI (Spatial Data Infrastructure) to assist in routing decisions regarding transportation of hazardous materials
+              * Developed chemical graph mining algorithm which extends Ugi’s scheme and capable to classify a wide variety of chemical reactions
+
     design:
       columns: '2'
   - block: accomplishments
