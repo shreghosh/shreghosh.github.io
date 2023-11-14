@@ -18,7 +18,7 @@ sections:
       title: Featured Publications 
       text: |-
         {{% callout note %}}
-        **See Full Publication** [here](https://shreyaghosh-2016.github.io/publications) 
+        **See Full Publication**  
         [**Google Scholar Link**](https://scholar.google.com/citations?user=a5OKo7wAAAAJ&hl=en)
         {{% /callout %}}
       filters:
