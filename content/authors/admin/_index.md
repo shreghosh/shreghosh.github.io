@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher (2021-2023)
 
 # Organizations/Affiliations to show in About widget
 organizations:
