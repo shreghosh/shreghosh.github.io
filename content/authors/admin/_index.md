@@ -80,7 +80,7 @@ email: 'shreya.cst@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Shreya Ghosh (শ্রেয়া ঘোষ) is a postdoctoral scholar at Pennsylvania State University,
+Shreya Ghosh (শ্রেয়া ঘোষ) has joined as an Assistant Professor in School of Electrical Sciences (Computer Science and Enggineering) at IIT Bhubaneswar, India in Dec 2023. Prior joining at IIT, She was a postdoctoral scholar at Pennsylvania State University,
 USA since Dec 2021. Her research interests are in the areas of misinformation
 detection on social media using linguistic cues and network structure, and spatio-
 temporal data analytics (night-time light data and trajectory transfer learning).
